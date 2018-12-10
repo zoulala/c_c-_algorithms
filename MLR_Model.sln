@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MLR_Model", "MLR_Model\MLR_Model.vcxproj", "{0C13632C-8143-4B22-9EF1-31DBEB74E22A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PLS_Model", "..\PLS_Model\PLS_Model\PLS_Model.vcxproj", "{55EEFDED-66A6-4BB9-A664-A59B97D23347}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -17,10 +15,6 @@ Global
 		{0C13632C-8143-4B22-9EF1-31DBEB74E22A}.Debug|Win32.Build.0 = Debug|Win32
 		{0C13632C-8143-4B22-9EF1-31DBEB74E22A}.Release|Win32.ActiveCfg = Release|Win32
 		{0C13632C-8143-4B22-9EF1-31DBEB74E22A}.Release|Win32.Build.0 = Release|Win32
-		{55EEFDED-66A6-4BB9-A664-A59B97D23347}.Debug|Win32.ActiveCfg = Debug|Win32
-		{55EEFDED-66A6-4BB9-A664-A59B97D23347}.Debug|Win32.Build.0 = Debug|Win32
-		{55EEFDED-66A6-4BB9-A664-A59B97D23347}.Release|Win32.ActiveCfg = Release|Win32
-		{55EEFDED-66A6-4BB9-A664-A59B97D23347}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
