@@ -16,6 +16,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
+    <None Include="icon1.ico">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -24,7 +27,10 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
+    <ClInclude Include="SerialPort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -32,18 +38,15 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="MLR_Model.cpp">
+    <ClCompile Include="COM_zou002.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\PLS_Model\PLS_Model.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\COM_zou002\COM_zou002.cpp">
+    <ClCompile Include="SerialPort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="MLR_Model.rc">
+    <ResourceCompile Include="COM_zou0021.rc">
       <Filter>资源文件</Filter>
     </ResourceCompile>
   </ItemGroup>
