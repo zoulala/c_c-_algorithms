@@ -1,0 +1,1 @@
+void kfft(double *,double *,int ,int ,double *,double *,int ,int );//声明 快速傅里叶变换函数
